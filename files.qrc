@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CameraParameters.yml</file>
+        <file>smile.xml</file>
+        <file>face.xml</file>
+    </qresource>
+</RCC>
